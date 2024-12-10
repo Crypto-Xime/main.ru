@@ -1,0 +1,4 @@
+Text for tell.
+Use utf-8 encoding.
+Because there are 2 languages!
+Thank you!
